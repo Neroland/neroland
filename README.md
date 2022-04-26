@@ -7,6 +7,10 @@
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/Neroland)
 
 <!--
+
+LINKS: https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8
+
+
 **Neroland/neroland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
