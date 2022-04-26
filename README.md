@@ -1,6 +1,10 @@
-### Hi there 👋
-
 ![Visits Badge](https://badges.pufler.dev/visits/Neroland/neroland)
+[![Years Badge](https://badges.pufler.dev/years/Neroland)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Neroland)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/Neroland)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/Neroland/neroland)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/Neroland/neroland)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Neroland)](https://badges.pufler.dev)
 
 <!--
 **Neroland/neroland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
