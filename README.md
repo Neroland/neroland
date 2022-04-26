@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Visits Badge](https://badges.pufler.dev/visits/neroland/git-badges)
+![Visits Badge](https://badges.pufler.dev/visits/Neroland/neroland)
 
 <!--
 **Neroland/neroland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
